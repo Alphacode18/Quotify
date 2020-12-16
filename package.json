@@ -1,0 +1,23 @@
+{
+  "name": "quotify",
+  "version": "0.0.1",
+  "description": "A RESTful API For All Your Quote Needs!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alphacode18/Quotify.git"
+  },
+  "author": "Shreyas Kharbanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alphacode18/Quotify/issues"
+  },
+  "homepage": "https://github.com/Alphacode18/Quotify#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
